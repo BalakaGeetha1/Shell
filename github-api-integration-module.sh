@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################
 # Author: Abishek
-# Version: v1
+# Version: v2
 #
 #
 #
